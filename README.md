@@ -1,2 +1,2 @@
-# Cyber-Box.github.io
+# cyber-box.github.io
 Website
